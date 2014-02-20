@@ -1,0 +1,17 @@
+{
+  "name": "ignacioola-pie",
+  "description": "SVG pie chart",
+  "version": "0.1",
+  "keywords": [
+    "svg",
+    "pie",
+    "chart"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "component-emitter": "git://github.com/npmcomponent/component-emitter.git",
+    "component-delegate": "git://github.com/npmcomponent/component-delegate.git",
+    "component-bind": "git://github.com/npmcomponent/component-bind.git"
+  },
+  "license": "MIT"
+}

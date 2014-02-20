@@ -7,9 +7,9 @@
  * Module dependencies.
  */
 
-var Emitter = require('emitter');
-var delegate = require('delegate');
-var bind = require('bind');
+var Emitter = require('component-emitter');
+var delegate = require('component-delegate');
+var bind = require('component-bind');
 
 /**
  * SVG namespace.
